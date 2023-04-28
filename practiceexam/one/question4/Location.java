@@ -1,4 +1,4 @@
-package exam.five.question4;// Exam #5 Question 4
+package practiceexam.one.question4;// Exam #5 Question 4
 
 public class Location
 {

@@ -1,6 +1,4 @@
-package exam.five.question2;
-
-import java.util.ArrayList;
+package practiceexam.one.question2;
 
 // Exam #5 Question 2
 

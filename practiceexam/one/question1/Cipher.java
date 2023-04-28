@@ -1,4 +1,4 @@
-package exam.five.question1;
+package practiceexam.one.question1;
 
 // Exam #5 Question 1
 

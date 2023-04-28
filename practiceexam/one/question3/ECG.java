@@ -1,4 +1,4 @@
-package exam.five.question3;
+package practiceexam.one.question3;
 
 // Exam #5 Question 3
 
@@ -99,7 +99,7 @@ public class ECG
 
     public static void main(String[] args)
     {
-        String pathname = "./exam/five/question3/ecg.dat";
+        String pathname = "practiceexam/one/question3/ecg.dat";
         File file = new File(pathname);
         Scanner input = null;
         try

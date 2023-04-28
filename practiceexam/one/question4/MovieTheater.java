@@ -1,4 +1,4 @@
-package exam.five.question4;
+package practiceexam.one.question4;
 
 
 public class MovieTheater {
